@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+pdfplumber
+requests
+beautifulsoup4
+scikit-learn
+reportlab
+plotly
+pandas
+bcrypt
