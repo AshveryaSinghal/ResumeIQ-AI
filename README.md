@@ -132,8 +132,3 @@ Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com).
 - **Similar Job Recommendations** are LLM judgment, not verified live postings.
 - **SQLite** is fine for personal/portfolio use; swap to PostgreSQL for real multi-user production.
 
----
-
-## 📝 License
-
-MIT
